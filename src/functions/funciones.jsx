@@ -15,7 +15,7 @@ const todosJuegos = {
   method: 'GET',
   url: 'https://free-to-play-games-database.p.rapidapi.com/api/games',
   headers: {
-    'X-RapidAPI-Key': 'fd85d81c00msh3ebed95929d6ac5p11a433jsnd54444fc502a',
+    'X-RapidAPI-Key': 'SECRET',
     'X-RapidAPI-Host': 'free-to-play-games-database.p.rapidapi.com'
   }
 };
